@@ -1,0 +1,132 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Global Markets Show Positive Growth",
+      "category": "Business",
+      "author": "BBC News",
+      "publishedAt": "2026-05-04",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3"
+    },
+    {
+      "id": 2,
+      "title": "AI Revolution in Healthcare Industry",
+      "category": "Technology",
+      "author": "BBC Tech",
+      "publishedAt": "2026-05-04",
+      "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef"
+    },
+    {
+      "id": 3,
+      "title": "Climate Change Policies Updated Globally",
+      "category": "Environment",
+      "author": "BBC Environment",
+      "publishedAt": "2026-05-03",
+      "image": "https://images.unsplash.com/photo-1569163139394-de4e4f43e4e3"
+    },
+    {
+      "id": 4,
+      "title": "Football Championship Begins with Excitement",
+      "category": "Sports",
+      "author": "BBC Sports",
+      "publishedAt": "2026-05-03",
+      "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20"
+    },
+    {
+      "id": 5,
+      "title": "New Education Policy Announced",
+      "category": "Education",
+      "author": "BBC Education",
+      "publishedAt": "2026-05-02",
+      "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7"
+    },
+    {
+      "id": 6,
+      "title": "SpaceX Launches New Satellite",
+      "category": "Science",
+      "author": "BBC Science",
+      "publishedAt": "2026-05-02",
+      "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa"
+    },
+    {
+      "id": 7,
+      "title": "Electric Cars Gain Popularity Worldwide",
+      "category": "Automobile",
+      "author": "BBC Auto",
+      "publishedAt": "2026-05-01",
+      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70"
+    },
+    {
+      "id": 8,
+      "title": "Stock Market Hits Record High",
+      "category": "Business",
+      "author": "BBC Finance",
+      "publishedAt": "2026-05-01",
+      "image": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44"
+    },
+    {
+      "id": 9,
+      "title": "Breakthrough in Cancer Research",
+      "category": "Health",
+      "author": "BBC Health",
+      "publishedAt": "2026-04-30",
+      "image": "https://images.unsplash.com/photo-1579154204601-01588f351e67"
+    },
+    {
+      "id": 10,
+      "title": "New Smartphone Trends in 2026",
+      "category": "Technology",
+      "author": "BBC Tech",
+      "publishedAt": "2026-04-30",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    },
+    {
+      "id": 11,
+      "title": "Global Tourism Sees Major Growth",
+      "category": "Travel",
+      "author": "BBC Travel",
+      "publishedAt": "2026-04-29",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+    },
+    {
+      "id": 12,
+      "title": "Olympics Preparation in Full Swing",
+      "category": "Sports",
+      "author": "BBC Sports",
+      "publishedAt": "2026-04-29",
+      "image": "https://images.unsplash.com/photo-1517649763962-0c623066013b"
+    },
+    {
+      "id": 13,
+      "title": "Cybersecurity Threats Increasing",
+      "category": "Technology",
+      "author": "BBC Security",
+      "publishedAt": "2026-04-28",
+      "image": "https://images.unsplash.com/photo-1510511459019-5dda7724fd87"
+    },
+    {
+      "id": 14,
+      "title": "Renewable Energy Adoption Rising",
+      "category": "Environment",
+      "author": "BBC Green",
+      "publishedAt": "2026-04-28",
+      "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7"
+    },
+    {
+      "id": 15,
+      "title": "Startups Driving Innovation",
+      "category": "Business",
+      "author": "BBC Startup",
+      "publishedAt": "2026-04-27",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d"
+    },
+    {
+      "id": 16,
+      "title": "Latest World News Update",
+      "category": "General",
+      "author": "BBC World",
+      "publishedAt": "2026-04-27",
+      "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e"
+    }
+  ]
+}

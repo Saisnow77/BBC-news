@@ -1,0 +1,331 @@
+/* .nav{
+    height:100px;
+    width:100%;
+    background-color: darkslategrey;
+    color:coral;
+
+    
+}
+.nav-bite{
+  
+    margin-right: 750px;
+    font-size: 23px;
+    padding: 20px;
+}
+.nav-bor{
+    border-radius: 50px;
+    border: 2px solid black;
+    height:30px;
+    width:30px;
+    background-color: chocolate;
+    margin-right:750px;
+}
+.nav-menu{
+    font-size: 20px;
+    margin-left: 270px;
+    padding: 0px;
+}
+.nav-about{
+    font-size: 20px;
+   margin-left: 270px;
+   margin:140px
+
+}
+.nav-contact{
+    font-size:20px;
+    margin-left:270px;
+    margin:140px
+
+} */
+body{
+   margin:0;
+   width:100%;
+   padding: 0;
+   box-sizing: border-box;
+}
+.nav{
+    height: 80px;
+    width: 100%;
+    background-color: darkslategrey;
+    color: white;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0px 40px;
+}
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.nav-bor{
+    border-radius: 50%;
+    border: 2px solid black;
+    height: 40px;
+    width: 40px;
+    background-color: chocolate;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-items{
+    display: flex;
+    gap: 20px;
+}
+
+.nav-items button{
+    padding: 10px 20px;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.active{
+    background-color: orange;
+    color: white;
+}
+.img-src{
+      background-image: url("https://images.unsplash.com/photo-1543353071-10c8ba85a904?q=80&w=1170&auto=format&fit=crop");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+
+}
+.img-sun{
+    font-size: 70px;
+    color: white;
+    padding: 30px;
+}
+.fd-cu{
+    background-color: darkslategrey;
+    color: orange;
+    padding: 20px;
+    font-size: 40px;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.food-menu{
+    background-color: rgba(232, 127, 29, 0.703);
+    height: 500px;
+
+}
+.food-cra{
+    font-size:20px;
+    color:rgb(148, 7, 7);
+    margin-right:430px;
+    padding:50px
+}
+.food-dis{
+    color:orangered;
+    font-size: 20px;
+    margin-right:440px;
+    margin-top:-30px ;
+}
+.total{
+    border: 2px solid orange;
+    height:80px;
+    width:600px;
+    background-color: darkblue;
+    border-radius: 20px;
+  
+}
+.total-num{
+    margin-right: 420px;
+    padding:30px;
+}
+.total-num2{
+
+   border: 2px solid orange;
+    height:80px;
+    width:600px;
+    background-color: darkblue;
+    border-radius: 20px;
+  
+}
+.total-num3{
+    margin-right: 420px;
+    padding:30px;
+}
+.total-num4{
+    margin-right: 420px;
+    padding:30px;
+
+}
+.total-num5{
+
+   border: 2px solid orange;
+    height:30px;
+    width:600px;
+    background-color: darkblue;
+    border-radius: 20px;
+    margin-right: 40px;
+  
+    margin-top: 6px;
+    margin-right: 440px;
+    text-align: left;
+    display: inline-block;
+    padding:30px 20px 20px 20px;
+    position: relative;
+     top:20px
+}
+.total-num6{
+
+   border: 2px solid orange;
+    height:30px;
+    width:600px;
+    background-color: darkblue;
+    border-radius: 20px;
+    margin-right: 40px;
+  
+    margin-top: 6px;
+    margin-right: 440px;
+    text-align: left;
+    display: inline-block;
+    padding:30px 20px 20px 20px;
+    position: relative;
+     top:20px;
+     color:coral;
+}
+
+.border1{
+      border:20px solid rgba(11, 6, 21, 0.304);
+      height:200px;
+      width:100%;
+      background-color: goldenrod;
+      border-radius: 50px;
+      display: flex;
+      gap:7px;
+      align-items: flex-start;
+      padding-top: 20px;
+      flex-wrap: wrap;
+}
+.all{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue
+}
+.all:hover{
+    background-color: brown;
+}
+.chinese{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    }
+    .chinese:hover{
+    background-color: brown;
+    }
+    .deserat{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    }
+     .deserat:hover{
+    background-color: brown;
+    }
+       .drink{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    }
+        .drink:hover{
+    background-color: brown;
+    }
+       .Mexican{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    }
+       .Pasta{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    }
+       .Sandwich{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    }
+       .Snacks{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    
+    
+    }
+       .Wrap{
+    border:2px solid red;
+    height:20px;
+    width:50px;
+    padding:10px;
+    margin:10px;
+    border-radius: 50px;
+    color:blue;
+    margin-top: 0px;
+    }
+        .Mexican:hover{
+    background-color: brown;
+    }
+        .Pasta:hover{
+    background-color: brown;
+    }
+        .Sandwich:hover{
+    background-color: brown;
+    }
+        .Wrap:hover{
+    background-color: brown;
+    }
+        .Snacks:hover{
+    background-color: brown;
+    }
+    .se{
+        color:red;
+        width: 100%;
+        margin-right:-780px;
+
+    }

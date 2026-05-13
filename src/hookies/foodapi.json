@@ -1,0 +1,182 @@
+{
+  "foods":[{
+    "id": 17,
+    "name": "Veg Pasta Alfredo",
+    "category": "pasta",
+    "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=800&q=80",
+    "price": 320,
+    "promoted": true,
+    "description": "Creamy Alfredo pasta with vegetables."
+  },
+  {
+    "id": 18,
+    "name": "Spaghetti Bolognese",
+    "category": "pasta",
+    "image": "https://images.unsplash.com/photo-1608756687911-aa1599ab3bd9?auto=format&fit=crop&w=800&q=80",
+    "price": 380,
+    "promoted": false,
+    "description": "Classic spaghetti with meat sauce."
+  },
+  {
+    "id": 19,
+    "name": "Cold Coffee",
+    "category": "drink",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=800&q=80",
+    "price": 150,
+    "promoted": true,
+    "description": "Chilled coffee with ice cream topping."
+  },
+  {
+    "id": 20,
+    "name": "Chocolate Milkshake",
+    "category": "drink",
+    "image": "https://images.unsplash.com/photo-1577805947697-89e18249d767?auto=format&fit=crop&w=800&q=80",
+    "price": 180,
+    "promoted": false,
+    "description": "Thick chocolate milkshake with whipped cream."
+  },
+  {
+    "id": 21,
+    "name": "Lemon Juice",
+    "category": "drink",
+    "image": "https://steviala.com/wp-content/uploads/2020/04/lime.jpg",
+    "price": 100,
+    "promoted": false,
+    "description": "Fresh lemon juice with mint."
+  },
+  {
+    "id": 22,
+    "name": "Brownie",
+    "category": "dessert",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=800&q=80",
+    "price": 200,
+    "promoted": true,
+    "description": "Warm chocolate brownie with fudge."
+  },
+  {
+    "id": 23,
+    "name": "Ice Cream Sundae",
+    "category": "dessert",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=800&q=80",
+    "price": 220,
+    "promoted": false,
+    "description": "Vanilla ice cream topped with chocolate syrup."
+  },
+  {
+    "id": 24,
+    "name": "Grilled Sandwich",
+    "category": "sandwich",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80",
+    "price": 180,
+    "promoted": false,
+    "description": "Toasted sandwich with vegetables and cheese."
+  },
+  {
+    "id": 25,
+    "name": "Club Sandwich",
+    "category": "sandwich",
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=800&q=80",
+    "price": 250,
+    "promoted": true,
+    "description": "Triple layered sandwich with chicken and veggies."
+  },
+  {
+    "id": 26,
+    "name": "Paneer Wrap",
+    "category": "wrap",
+    "image": "https://cdn.uengage.io/uploads/18085/image-646359-1717590397.jpeg",
+    "price": 220,
+    "promoted": true,
+    "description": "Spicy paneer wrap with sauces."
+  },
+  {
+    "id": 27,
+    "name": "Chicken Wrap",
+    "category": "wrap",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "price": 260,
+    "promoted": false,
+    "description": "Grilled chicken wrap with fresh veggies."
+  },
+  {
+    "id": 28,
+    "name": "French Fries",
+    "category": "snacks",
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?auto=format&fit=crop&w=800&q=80",
+    "price": 150,
+    "promoted": true,
+    "description": "Crispy golden french fries."
+  },
+  {
+    "id": 29,
+    "name": "Onion Rings",
+    "category": "snacks",
+    "image": "https://images.unsplash.com/photo-1639024471283-03518883512d?auto=format&fit=crop&w=800&q=80",
+    "price": 170,
+    "promoted": false,
+    "description": "Deep fried crispy onion rings."
+  },
+  {
+    "id": 30,
+    "name": "Garlic Bread",
+    "category": "snacks",
+    "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=800&q=80",
+    "price": 190,
+    "promoted": false,
+    "description": "Toasted garlic bread with herbs."
+  },
+  {
+    "id": 31,
+    "name": "Tacos",
+    "category": "mexican",
+    "image": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f85?auto=format&fit=crop&w=800&q=80",
+    "price": 300,
+    "promoted": true,
+    "description": "Mexican tacos filled with meat and veggies."
+  },
+  {
+    "id": 32,
+    "name": "Nachos",
+    "category": "mexican",
+    "image": "https://images.unsplash.com/photo-1585238342024-78d387f4a707?auto=format&fit=crop&w=800&q=80",
+    "price": 280,
+    "promoted": false,
+    "description": "Crispy nachos served with salsa and cheese."
+  },
+  {
+    "id": 33,
+    "name": "Fried Rice",
+    "category": "chinese",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80",
+    "price": 240,
+    "promoted": false,
+    "description": "Veg fried rice with soy sauce."
+  },
+  {
+    "id": 34,
+    "name": "Noodles",
+    "category": "chinese",
+    "image": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841?auto=format&fit=crop&w=800&q=80",
+    "price": 260,
+    "promoted": true,
+    "description": "Stir fried noodles with vegetables."
+  },
+  {
+    "id": 35,
+    "name": "Spring Rolls",
+    "category": "chinese",
+    "image": "https://images.unsplash.com/photo-1608039755401-742074f0548d?auto=format&fit=crop&w=800&q=80",
+    "price": 220,
+    "promoted": false,
+    "description": "Crispy vegetable spring rolls."
+  },
+  {
+    "id": 36,
+    "name": "Momos",
+    "category": "chinese",
+    "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=800&q=80",
+    "price": 200,
+    "promoted": true,
+    "description": "Steamed dumplings served with spicy chutney."
+    }]
+  }

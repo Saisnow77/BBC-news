@@ -1,0 +1,108 @@
+{
+  "news": [
+    {
+      "id": "2",
+      "title": "AI Revolution in Healthcare Industry",
+      "category": "Technology",
+      "author": "BBC Tech",
+      "publishedAt": "2026-05-04",
+      "image": "https://images.unsplash.com/photo-1666214280250-41f16ba24a26?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fEFJJTIwUmV2b2x1dGlvbiUyMGluJTIwSGVhbHRoY2FyZSUyMEluZHVzdHJ5fGVufDB8fDB8fHww"
+    },
+    {
+      "id": "3",
+      "title": "Climate Change Policies Updated Globally",
+      "category": "Environment",
+      "author": "BBC Environment",
+      "publishedAt": "2026-05-03",
+      "image": "https://plus.unsplash.com/premium_photo-1681487077388-5a2c641a1e21?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fENsaW1hdGUlMjBDaGFuZ2UlMjBQb2xpY2llcyUyMFVwZGF0ZWQlMjBHbG9iYWxseXxlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+      "id": "4",
+      "title": "Football Championship Begins with Excitement",
+      "category": "Sports",
+      "author": "Live Sports",
+      "publishedAt": "2026-05-03",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNE29CmOxN7QTaZhZzyNu8fE-f9bjoeKhpSQ&s"
+    },
+    {
+      "id": "5",
+      "title": "New Education Policy Announced",
+      "category": "Education",
+      "author": "BBC Education",
+      "publishedAt": "2026-05-02",
+      "image": "https://media.istockphoto.com/id/1444192979/photo/the-power-of-education-books-on-the-shelf-with-megaphone.jpg?s=612x612&w=is&k=20&c=vCUjF-S2bObuiQgGuTMDPZeGStYh5aHflCmEW5EDmPo="
+    },
+    {
+      "id": "6",
+      "title": "SpaceX Launches New Satellite",
+      "category": "Science",
+      "author": "Technology",
+      "publishedAt": "2026-05-02",
+      "image": "https://media.istockphoto.com/id/2261405893/photo/hawthorne-california-exterior-view-of-spacex-headquarters.jpg?s=612x612&w=0&k=20&c=wh2bPL7dJssNVTF-vv0lGInwQTyzW7cg5ULkHqC5iFI="
+    },
+    {
+      "id": "7",
+      "title": "Electric Cars Gain Popularity Worldwide",
+      "category": "Automobile",
+      "author": "BBC Auto",
+      "publishedAt": "2026-05-01",
+      "image": "https://media.istockphoto.com/id/1652448679/photo/electric-vehicle-concept-with-aerodynamic-light-trails.jpg?s=612x612&w=0&k=20&c=4Y6AgZXbykTyAyoY2oflcW94GkGKG-fcRi6EXMYGrB0="
+    },
+    {
+      "id": "8",
+      "title": "Stock Market Hits Record High",
+      "category": "Business",
+      "author": "BBC Finance",
+      "publishedAt": "2026-05-01",
+      "image": "https://media.istockphoto.com/id/1294542822/photo/investing-and-stock-market-chart-concept-graph-going-up-the-bull-market.jpg?s=612x612&w=0&k=20&c=0HJwO1VHIhmepvl9Rp2DHnhxSWRNzyyZJcmHrJnNhmM="
+    },
+    {
+      "id": "9",
+      "title": "Breakthrough in Cancer Research",
+      "category": "Health",
+      "author": "BBC Health",
+      "publishedAt": "2026-04-30",
+      "image": "https://media.istockphoto.com/id/1181392325/photo/young-scientist-looking-through-a-microscope.jpg?s=612x612&w=is&k=20&c=JsIbNNB771xMDYYnTdZNO9cFVV5iu3TGpUG6IUGDFTs="
+    },
+    {
+      "id": "10",
+      "title": "New Smartphone Trends in 2026",
+      "category": "Technology",
+      "author": "BBC Tech",
+      "publishedAt": "2026-04-30",
+      "image": "https://media.istockphoto.com/id/2192190908/photo/happy-new-year-a-businessman-with-his-smartphone-draws-a-line-rising-up-from-2025-to-2026.jpg?s=612x612&w=0&k=20&c=k5YC6psQR5eIQSCzwRB_IzNDoKcVZpw-x-DP1z9hq7Y="
+    },
+    {
+      "id": "11",
+      "title": "Global Tourism Sees Major Growth",
+      "category": "Travel",
+      "author": "BBC Travel",
+      "publishedAt": "2026-04-29",
+      "image": "https://media.istockphoto.com/id/1426634245/photo/the-best-travel-image-with-the-best-high-quality-and-the-best-moments.jpg?s=612x612&w=0&k=20&c=gLsVmBlXbEqt6Y4MgZv-wfmeptoLnIyiqUZp6TTTBKQ="
+    },
+    {
+      "id": "12",
+      "title": "Olympics Preparation in Full Swing",
+      "category": "Sports",
+      "author": "BBC Sports",
+      "publishedAt": "2026-04-29",
+      "image": "https://media.istockphoto.com/id/1356540562/photo/professional-male-athlete-on-world-championship-running-with-pole-to-jump-over-bar-shot-of.jpg?s=612x612&w=0&k=20&c=Y_AhpAh7XIGSLKdcrNccWH7WnuEjMOCd3Jz7udFNyZs="
+    },
+    {
+      "id": "13",
+      "title": "Cybersecurity Threats Increasing",
+      "category": "Technology",
+      "author": "BBC Security",
+      "publishedAt": "2026-04-28",
+      "image": "https://media.istockphoto.com/id/2218990203/photo/a-businessman-using-a-tablet-analyzes-cloud-security-and-data-growth-threat-detection.jpg?s=612x612&w=is&k=20&c=-vV-Cz8KPDtwRMry24ZguVW57g9xuunbpn-4LbFVgEk="
+    },
+    {
+      "id": "14",
+      "title": "Renewable Energy Adoption Rising",
+      "category": "Environment",
+      "author": "BBC Green",
+      "publishedAt": "2026-04-28",
+      "image": "https://media.istockphoto.com/id/1189740839/vector/people-generating-energy-of-the-wind-wind-turbine-alternative-energy-sources-eco-friendly.jpg?s=612x612&w=0&k=20&c=9qcP69w_gVMmhXZH_nMKuTbWiZzlmm87GCI57isiXzk="
+    }
+  ]
+}
