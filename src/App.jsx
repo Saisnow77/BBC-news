@@ -217,9 +217,9 @@ import axios from "axios"
 export default function App(){
   let[sai,satya]=useState([])
   useEffect(()=>{
-    axios.get("http://localhost:7890/news")
+    axios.get("https://bbc-news-1.onrender.com/news")
     .then((res)=>{
-      console.log(res.data);
+      // console.log(res.data);
       satya(res.data)
     })
     .catch((err)=>{
